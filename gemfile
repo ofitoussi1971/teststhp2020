@@ -1,0 +1,6 @@
+gem 'pry'
+gem 'dotenv'
+gem 'bundler'
+gem 'rubocop'
+
+
